@@ -34,8 +34,7 @@
     },
     "autoload": {
         "psr-4": {
-            "MichaelNabil230\\WhatsApp\\": "src/",
-            "MichaelNabil230\\WhatsApp\\Database\\Factories\\": "database/factories/"
+            "MichaelNabil230\\WhatsApp\\": "src/"
         }
     },
     "autoload-dev": {
@@ -79,6 +78,6 @@
             }
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
